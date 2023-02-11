@@ -7,7 +7,7 @@
   
   "Dialog_Message": "🔥🔥𝐌ᴜᴛᴇ 𝐒ʜᴀʀᴇ𝐂ʜᴀᴛ🔥🔥
 
-
+ Send you a Connect request on the Shaadi app store
 🔇𝐌ᴜᴛᴇ 𝐒ʜᴀʀᴇ𝐂ʜᴀᴛ 𝐋ᴀᴛᴇ𝐬ᴛ 𝐀ᴘᴘ🔇
              
 𝐋ᴀᴛᴇ𝐬ᴛ  𝐕ᴇʀ𝐬ɪᴏɴ  𝐂ᴏᴍɪɴɢ  𝐒ᴏᴏɴ
@@ -30,15 +30,15 @@
   
   
   
-  "Update_Type": "false",
+  "Update_Type": "true",
   
-  "New_Version": "1.5",
+  "New_Version": "6.4.0",
   
   "Show_Time": "5",
   
   
   
-  "isCancelable": "false",
+  "isCancelable": "true",
   
   "Cancel_Button_Text_Color": "#FF009ACD",
   
